@@ -18,6 +18,7 @@
             <li><a href="{% url 'communities:communities' %}">Группы</a></li>
             {% if user.is_authenticated %}
             <li><a href="{% url 'posts:new-post' %}">Новый пост</a></li>
+            <li><a href="{% url 'communities:new-communities' %}">Новая группа</a></li>
             <form class="logout" action="{% url 'users:logout' %}" method="post">
                 {% csrf_token %}
                 <button title="User Logout">Выйти</button>
