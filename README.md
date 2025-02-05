@@ -22,8 +22,7 @@
 - Python 3.8+
 - Django 4.0+
 - PostgreSQL
-- Bootstrap 5
-- HTML5/CSS3
+- HTML5
 - JavaScript
 
 ## Установка и запуск
