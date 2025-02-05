@@ -1,6 +1,8 @@
 ```markdown
 # (Название проекта)
 
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)
+[![Django](https://img.shields.io/badge/Django-4.0%2B-green)](https://djangoproject.com)
 
 Социальная платформа для создания постов, сообществ.
 
